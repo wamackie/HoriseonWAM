@@ -3,4 +3,5 @@ The website required numerous changes. There were several semantic labeling issu
   
   In CSS, code was split into appropriate groupings to give better readability. Reorganization was required in order to group like items together. Some periods were removed while some # were added to ensure functionality following HTML div class/div id name changes.
   
-  ![Alt text](/screenshots/one.jpg?raw=true "one")
+  ![Alt text](/screenshots/one.png?raw=true "one")
+  ![Alt text](/screenshots/two.png?raw=true "one")
